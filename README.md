@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm Darya.</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/darya-pavlova-0a5699420">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/darya-pavlova-0a5699420/?trk=public-profile-join-page">LinkedIn</a> •
 </p>
 
 ## Education
